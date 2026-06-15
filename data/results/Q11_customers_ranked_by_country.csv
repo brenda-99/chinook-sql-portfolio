@@ -1,0 +1,60 @@
+customer_name,country,total_spent,customer_rank
+"Diego Gutiérrez",Argentina,37.62,1
+"Mark Taylor",Australia,37.62,1
+"Astrid Gruber",Austria,42.62,1
+"Daan Peeters",Belgium,37.62,1
+"Luís Gonçalves",Brazil,39.62,1
+"Eduardo Martins",Brazil,37.62,2
+"Alexandre Rocha",Brazil,37.62,2
+"Roberto Almeida",Brazil,37.62,2
+"Fernanda Ramos",Brazil,37.62,2
+"François Tremblay",Canada,39.62,1
+"Jennifer Peterson",Canada,38.62,2
+"Martha Silk",Canada,37.62,3
+"Robert Brown",Canada,37.62,3
+"Mark Philips",Canada,37.62,3
+"Edward Francis",Canada,37.62,3
+"Ellie Sullivan",Canada,37.62,3
+"Aaron Mitchell",Canada,37.62,3
+"Luis Rojas",Chile,46.62,1
+"Helena Holý","Czech Republic",49.62,1
+"František Wichterlová","Czech Republic",40.62,2
+"Kara Nielsen",Denmark,37.62,1
+"Terhi Hämäläinen",Finland,41.62,1
+"Isabelle Mercier",France,40.62,1
+"Wyatt Girard",France,39.62,2
+"Dominique Lefebvre",France,38.62,3
+"Camille Bernard",France,38.62,3
+"Marc Dubois",France,37.62,4
+"Fynn Zimmermann",Germany,43.62,1
+"Leonie Köhler",Germany,37.62,2
+"Hannah Schneider",Germany,37.62,2
+"Niklas Schröder",Germany,37.62,2
+"Ladislav Kovács",Hungary,45.62,1
+"Manoj Pareek",India,38.62,1
+"Puja Srivastava",India,36.64,2
+"Hugh O'Reilly",Ireland,45.62,1
+"Lucas Mancini",Italy,37.62,1
+"Johannes Van der Berg",Netherlands,40.62,1
+"Bjørn Hansen",Norway,39.62,1
+"Stanisław Wójcik",Poland,37.62,1
+"João Fernandes",Portugal,39.62,1
+"Madalena Sampaio",Portugal,37.62,2
+"Enrique Muñoz",Spain,37.62,1
+"Joakim Johansson",Sweden,38.62,1
+"Phil Hughes","United Kingdom",37.62,1
+"Steve Murray","United Kingdom",37.62,1
+"Emma Jones","United Kingdom",37.62,1
+"Richard Cunningham",USA,47.62,1
+"Julia Barnett",USA,43.62,2
+"Frank Ralston",USA,43.62,2
+"Victor Stevens",USA,42.62,3
+"Heather Leacock",USA,39.62,4
+"Dan Miller",USA,39.62,4
+"Jack Smith",USA,39.62,4
+"Tim Goyer",USA,38.62,5
+"Patrick Gray",USA,37.62,6
+"John Gordon",USA,37.62,6
+"Kathy Chase",USA,37.62,6
+"Michelle Brooks",USA,37.62,6
+"Frank Harris",USA,37.62,6
