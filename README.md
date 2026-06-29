@@ -1,12 +1,15 @@
 # Chinook Music Store — SQL Portfolio Project
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat)
+
 An end-to-end SQL analysis of the Chinook digital music store database, covering customer behaviour, revenue trends, artist performance, and genre popularity across 59 customers, 3,503 tracks, and 412 invoices.
 
 ---
 
 ## Dataset
 
-The [Chinook Database](https://github.com/lerocha/chinook-database) is a sample database representing a digital music store, modelled after iTunes. It contains 11 tables covering artists, albums, tracks, customers, employees, invoices, and playlists.
+The [Chinook Database](https://github.com/lerocha/chinook-database) is a sample database representing a digital music store, modelled after iTunes. It contains 11 tables: Artist, Album, Track, Genre, MediaType, Employee, Customer, Invoice, InvoiceLine, Playlist, and PlaylistTrack.
 
 ### Entity Relationship Diagram
 
@@ -82,4 +85,6 @@ chinook-sql-project/
 2. Open `sql/chinook_analysis.sql` in MySQL Workbench
 3. Execute queries individually or all at once
 
+---
 
+**Brenda Homera** · [LinkedIn](https://www.linkedin.com/in/bhomera) · [Email](mailto:brendahomera12@gmail.com)
